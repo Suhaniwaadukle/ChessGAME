@@ -1,3 +1,4 @@
+own application 
 Chess Game using OOP in C++
 Y-Axis Label Coordinates (14,1)
 X-Axis Label Coordinates (18,24)
